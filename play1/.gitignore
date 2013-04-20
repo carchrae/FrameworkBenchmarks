@@ -1,1 +1,8 @@
 precompiled/*
+/bin
+/.settings
+/eclipse
+/.classpath
+/.project
+/server.pid
+/tmp
